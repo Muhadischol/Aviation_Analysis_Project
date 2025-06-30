@@ -32,7 +32,7 @@ The company seeks to answer:
 
 ---
 
-## 🔬 Analysis Workflow
+## 🔬 Data Analysis workflow
 
 This project involved the following steps:
 
