@@ -1,4 +1,4 @@
-# ✈️ Aviation Safety Analysis
+# ✈️ Aviaton Accidentsy Analysis
 
 ## 📌 Project Objective
 
