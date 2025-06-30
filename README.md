@@ -2,7 +2,7 @@
 
 ## 📌 Project Objective
 
-The goal of this project is to help a company identify the **safest and most reliable aircraft to purchase**, based on historical accident and incident data. This data-driven analysis provides actionable insights to support purchasing decisions in aviation operations.
+The goal of this project is to help in identifying the **safest and most reliable aircraft to purchase**, based on historical accident and incident data. This data-driven analysis provides actionable insights to support purchasing decisions in aviation operations.
 
 ---
 
