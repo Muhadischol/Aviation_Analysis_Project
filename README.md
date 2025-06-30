@@ -69,7 +69,7 @@ This project involved the following steps:
 
 ## 📌 Recommendations
 
-- ✅ Avoid aircraft with **low injury/fatality averages**,.
+- ✅ choose aircraft with **low injury/fatality averages**,.
 - ⚠️ Be cautious of models with high accident rates — even if popular.
 - ✅ Some amatuer built aircraft have low crash risk-built where safety is paramount.
 - ✅ Consider aircraft with **non-reciprocating engines** (e.g., turboprop, turbojet) for commercial operations.
